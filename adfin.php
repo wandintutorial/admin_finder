@@ -1,5 +1,5 @@
 <?php
-// Author Name : Mr.cakil
+// Author Name : Ikhwan
 // Information List : 4001 list
 // contact here : mrcakil@programmer.net
 // Fb : http://facebook.com/dendisaimam.dendisaimam.1
@@ -14,7 +14,7 @@ print "
 ██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║    ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                                                          
-                Admin Finder - coded by ./Mr.cakil
+                Admin Finder - coded by ./wandintutorial
   Information list : 4001 list
   Thanks to  :IndoXploit - AnonCyberTeam - 99syndicate
 ";
